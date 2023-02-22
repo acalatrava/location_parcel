@@ -3,6 +3,14 @@
     "name" : "M1 F19E (shipped)",
     "data" : [
       {
+        "confidence" : 2,
+        "timestamp" : 698775749,
+        "latitude" : 40.453894300000002,
+        "accuracy" : 122,
+        "longitude" : -3.5680016000000001,
+        "datePublished" : 698775863.49699998
+      },
+      {
         "confidence" : 3,
         "timestamp" : 698766887,
         "latitude" : 40.453739900000002,
