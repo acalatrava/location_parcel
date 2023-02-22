@@ -4681,6 +4681,22 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 698780132,
+        "latitude" : 40.453546500000002,
+        "accuracy" : 104,
+        "longitude" : -3.5670861,
+        "datePublished" : 698781458.46199989
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698779885,
+        "latitude" : 40.453550399999997,
+        "accuracy" : 103,
+        "longitude" : -3.5671759000000001,
+        "datePublished" : 698781458.46199989
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 698779513,
         "latitude" : 40.453532799999998,
         "accuracy" : 111,
