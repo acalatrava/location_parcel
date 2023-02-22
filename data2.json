@@ -4913,6 +4913,14 @@
       },
       {
         "confidence" : 3,
+        "timestamp" : 698762915,
+        "latitude" : 40.383825100000003,
+        "accuracy" : 77,
+        "longitude" : -3.6322747999999998,
+        "datePublished" : 698783552.65100002
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 698762864,
         "latitude" : 40.383263499999998,
         "accuracy" : 107,
