@@ -4632,6 +4632,14 @@
         "datePublished" : 698763198.02900004
       },
       {
+        "confidence" : 1,
+        "timestamp" : 698763150,
+        "latitude" : 40.417439600000002,
+        "accuracy" : 180,
+        "longitude" : -3.6154099999999998,
+        "datePublished" : 698764126.7420001
+      },
+      {
         "confidence" : 3,
         "timestamp" : 698762933,
         "latitude" : 40.3839635,
@@ -4670,6 +4678,14 @@
         "accuracy" : 99,
         "longitude" : -3.6353103999999998,
         "datePublished" : 698763276.18199992
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698762362,
+        "latitude" : 40.3792373,
+        "accuracy" : 60,
+        "longitude" : -3.6348999000000002,
+        "datePublished" : 698764296.91000009
       },
       {
         "confidence" : 1,
@@ -5238,6 +5254,30 @@
         "accuracy" : 64,
         "longitude" : -3.4690056,
         "datePublished" : 698756257.68499994
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698754324,
+        "latitude" : 40.466416199999998,
+        "accuracy" : 106,
+        "longitude" : -3.4706508999999999,
+        "datePublished" : 698764199.12700009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698754315,
+        "latitude" : 40.466374199999997,
+        "accuracy" : 102,
+        "longitude" : -3.4706321999999998,
+        "datePublished" : 698764199.12700009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698754312,
+        "latitude" : 40.466374199999997,
+        "accuracy" : 103,
+        "longitude" : -3.4706321999999998,
+        "datePublished" : 698764199.12700009
       },
       {
         "confidence" : 3,
@@ -5862,6 +5902,14 @@
         "accuracy" : 99,
         "longitude" : -3.4572159999999998,
         "datePublished" : 698747750.5710001
+      },
+      {
+        "confidence" : 1,
+        "timestamp" : 698742865,
+        "latitude" : 40.465112400000002,
+        "accuracy" : 200,
+        "longitude" : -3.4617103999999999,
+        "datePublished" : 698764079.83999991
       },
       {
         "confidence" : 2,
