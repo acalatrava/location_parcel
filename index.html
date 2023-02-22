@@ -45,9 +45,11 @@
 					var latlngs = [];
 					var lastloc = 0;
 
-					const sortedData = device.data.sort((a, b) => {
+					var sortedData = device.data.sort((a, b) => {
 					  return new Date(a.timestamp) - new Date(b.timestamp);
 					});
+
+					sortedData = sortedData.slice(-100);
 
 					markers[device.name] = L.layerGroup(sortedData.map(location => {
 						lastloc = location.timestamp; 
