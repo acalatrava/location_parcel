@@ -50,7 +50,6 @@
 					});
 
 					markers[device.name] = L.layerGroup(sortedData.map(location => {
-//						if (location.timestamp - lastloc > 5 * 60) {
 						lastloc = location.timestamp; 
 						const date = new Date((location.timestamp + 978307200) * 1000);
 						const dateTimeString = date.toLocaleDateString() + ' ' + date.toLocaleTimeString();
@@ -62,7 +61,6 @@
                                                 });
 						latlngs.push([location.latitude, location.longitude]);
 						return marker;
-//						}
 					}));
 
 					var polyline = L.polyline(latlngs, {color: 'red'}).addTo(markers[device.name]);
