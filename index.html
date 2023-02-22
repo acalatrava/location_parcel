@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Map Example</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" i_ntegrity="sha512-sbfRiRZr5ze5kmXO5TFPm3Gx3y8/f89fnm+MIy6NpU6hZU6+FkqwzX80YiD24hQ2Eo75bNl6Nvya1nUIMh6Uzg==" crossorigin="anonymous" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" i_ntegrity="sha512-r0Jvwn+LcvIwVDJjYPz/dQJnLVdqzjhKZGG9Jryz2sOW8emEGfBHKLGydxT6UzTnU8W6UbJrRjZV7rZdJr8V7w==" crossorigin="anonymous"></script>
+	<style>
+		#mapid { height: 100vh; }
+	</style>
+</head>
+<body>
+	<div>
+		<label for="device-select">Select device:</label>
+		<select id="device-select">
+		</select>
+	</div>
+	<div id="mapid"></div>
+
+	<script>
+/*		var mymap = L.map('mapid').setView([0, 0], 1);
+		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			maxZoom: 18,
+			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
+		}).addTo(mymap);
+*/
+		// Load the location data from the data.json file
+		fetch('data2.json')
+			.then(response => response.json())
+			.then(data => {
+				// create an object to store the markers for each device
+				const markers = {};
+				// initialize the map
+				const map = L.map('mapid').setView([51.505, -0.09], 13);
+
+				L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+					attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+					maxZoom: 18,
+				}).addTo(map);
+				// iterate over the data and create markers for each device
+				var i = 0;
+				data.forEach(device => {
+					const select = document.getElementById('device-select');
+					const option = document.createElement('option');
+				      option.value = device.name;
+				      option.textContent = device.name;
+					select.appendChild(option);
+
+					var latlngs = [];
+					var lastloc = 0;
+
+					const sortedData = device.data.sort((a, b) => {
+					  return new Date(a.timestamp) - new Date(b.timestamp);
+					});
+
+					markers[device.name] = L.layerGroup(sortedData.map(location => {
+//						if (location.timestamp - lastloc > 5 * 60) {
+						lastloc = location.timestamp; 
+						const date = new Date((location.timestamp + 978307200) * 1000);
+						const dateTimeString = date.toLocaleDateString() + ' ' + date.toLocaleTimeString();
+
+						const marker = L.marker([location.latitude, location.longitude])
+							.bindPopup(`Device: ${device.name}<br>Date: ${dateTimeString}`);
+						marker.on('mouseover', function (e) {
+                                                    this.openPopup();
+                                                });
+						latlngs.push([location.latitude, location.longitude]);
+						return marker;
+//						}
+					}));
+
+					var polyline = L.polyline(latlngs, {color: 'red'}).addTo(markers[device.name]);
+					map.addLayer(markers[device.name]);
+					map.setView(markers[device.name].getLayers()[0].getLatLng(), 10);
+					select.selectedIndex = i++;
+				});
+				// create a control for the device selection
+				L.control.layers(null, markers).addTo(map);
+				// listen for changes to the device select element and update the map
+				const deviceSelect = document.getElementById('device-select');
+				console.log(deviceSelect);
+				deviceSelect.addEventListener('change', () => {
+					const selectedDevice = deviceSelect.value;
+					console.log(selectedDevice);
+					// iterate over the markers and show the markers for the selected device
+					Object.keys(markers).forEach(deviceName => {
+						if (deviceName === selectedDevice) {
+							map.addLayer(markers[deviceName]);
+							map.setView(markers[deviceName].getLayers()[0].getLatLng(), 10);
+						} else {
+							map.removeLayer(markers[deviceName]);
+						}
+					});
+				});
+			})
+			//.catch(error => console.error(error));
+	</script>
+</body>
+</html>
