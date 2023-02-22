@@ -4608,6 +4608,14 @@
     "name" : "M2 5976 (shipped)",
     "data" : [
       {
+        "confidence" : 3,
+        "timestamp" : 698763537,
+        "latitude" : 40.451514799999998,
+        "accuracy" : 102,
+        "longitude" : -3.5739643999999999,
+        "datePublished" : 698765851.87899995
+      },
+      {
         "confidence" : 2,
         "timestamp" : 698763426,
         "latitude" : 40.454957499999999,
@@ -4670,6 +4678,14 @@
         "accuracy" : 99,
         "longitude" : -3.6318017,
         "datePublished" : 698763189.35899997
+      },
+      {
+        "confidence" : 1,
+        "timestamp" : 698762924,
+        "latitude" : 40.382182999999998,
+        "accuracy" : 200,
+        "longitude" : -3.6319401,
+        "datePublished" : 698766288.64499998
       },
       {
         "confidence" : 3,
@@ -5046,6 +5062,14 @@
         "accuracy" : 44,
         "longitude" : -3.5799601999999999,
         "datePublished" : 698758521.89400005
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698756121,
+        "latitude" : 40.431333500000001,
+        "accuracy" : 96,
+        "longitude" : -3.5024346,
+        "datePublished" : 698765916.13700008
       },
       {
         "confidence" : 2,
@@ -5942,6 +5966,14 @@
         "accuracy" : 134,
         "longitude" : -3.4565321,
         "datePublished" : 698745259.94499993
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698742832,
+        "latitude" : 40.463549200000003,
+        "accuracy" : 105,
+        "longitude" : -3.4563931000000001,
+        "datePublished" : 698766116.38899994
       },
       {
         "confidence" : 2,
