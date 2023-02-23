@@ -4,6 +4,38 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 698812820,
+        "latitude" : 40.453967200000001,
+        "accuracy" : 106,
+        "longitude" : -3.5680538999999998,
+        "datePublished" : 698813619.60400009
+      },
+      {
+        "confidence" : 2,
+        "timestamp" : 698812507,
+        "latitude" : 40.453953900000002,
+        "accuracy" : 115,
+        "longitude" : -3.5681414,
+        "datePublished" : 698813619.60400009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698811912,
+        "latitude" : 40.4538619,
+        "accuracy" : 115,
+        "longitude" : -3.5680502999999999,
+        "datePublished" : 698813619.60400009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698811543,
+        "latitude" : 40.454062700000001,
+        "accuracy" : 107,
+        "longitude" : -3.5679953000000002,
+        "datePublished" : 698813619.60400009
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 698806668,
         "latitude" : 40.453662100000003,
         "accuracy" : 103,
@@ -4895,6 +4927,38 @@
   {
     "name" : "M2 5976 (shipped)",
     "data" : [
+      {
+        "confidence" : 1,
+        "timestamp" : 698813416,
+        "latitude" : 40.453251299999998,
+        "accuracy" : 200,
+        "longitude" : -3.5667944999999999,
+        "datePublished" : 698813619.60400009
+      },
+      {
+        "confidence" : 2,
+        "timestamp" : 698812905,
+        "latitude" : 40.453962500000003,
+        "accuracy" : 115,
+        "longitude" : -3.5679965999999999,
+        "datePublished" : 698813619.60400009
+      },
+      {
+        "confidence" : 2,
+        "timestamp" : 698812572,
+        "latitude" : 40.453687700000003,
+        "accuracy" : 116,
+        "longitude" : -3.5674426000000001,
+        "datePublished" : 698813619.60400009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698812250,
+        "latitude" : 40.453967200000001,
+        "accuracy" : 74,
+        "longitude" : -3.5680538999999998,
+        "datePublished" : 698813619.60400009
+      },
       {
         "confidence" : 3,
         "timestamp" : 698809468,
