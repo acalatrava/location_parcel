@@ -4,6 +4,14 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 698822051,
+        "latitude" : 40.455563400000003,
+        "accuracy" : 90,
+        "longitude" : -3.5784658999999999,
+        "datePublished" : 698822214.93700004
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 698812820,
         "latitude" : 40.453967200000001,
         "accuracy" : 106,
