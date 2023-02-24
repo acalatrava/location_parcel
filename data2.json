@@ -4,6 +4,22 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 698918674,
+        "latitude" : 40.453738700000002,
+        "accuracy" : 57,
+        "longitude" : -3.5760296,
+        "datePublished" : 698922830.61800003
+      },
+      {
+        "confidence" : 2,
+        "timestamp" : 698915795,
+        "latitude" : 40.454964500000003,
+        "accuracy" : 137,
+        "longitude" : -3.5752245999999999,
+        "datePublished" : 698917243.796
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 698888386,
         "latitude" : 40.455103999999999,
         "accuracy" : 106,
@@ -5543,6 +5559,54 @@
   {
     "name" : "M2 5976 (shipped)",
     "data" : [
+      {
+        "confidence" : 1,
+        "timestamp" : 698921842,
+        "latitude" : 40.454550500000003,
+        "accuracy" : 180,
+        "longitude" : -3.5752638000000001,
+        "datePublished" : 698922017.81900001
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698919561,
+        "latitude" : 40.454869600000002,
+        "accuracy" : 101,
+        "longitude" : -3.5752310999999999,
+        "datePublished" : 698919649.602
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698918687,
+        "latitude" : 40.453738700000002,
+        "accuracy" : 57,
+        "longitude" : -3.5760296,
+        "datePublished" : 698922830.61800003
+      },
+      {
+        "confidence" : 2,
+        "timestamp" : 698916126,
+        "latitude" : 40.4546779,
+        "accuracy" : 117,
+        "longitude" : -3.5754264,
+        "datePublished" : 698916171.70000005
+      },
+      {
+        "confidence" : 1,
+        "timestamp" : 698914753,
+        "latitude" : 40.454364200000001,
+        "accuracy" : 236,
+        "longitude" : -3.5742465999999999,
+        "datePublished" : 698915577.74600005
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 698914669,
+        "latitude" : 40.454949300000003,
+        "accuracy" : 110,
+        "longitude" : -3.5753575,
+        "datePublished" : 698916171.70000005
+      },
       {
         "confidence" : 3,
         "timestamp" : 698906930,
