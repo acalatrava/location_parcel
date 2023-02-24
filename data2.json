@@ -5545,6 +5545,14 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 698906930,
+        "latitude" : 40.455564799999998,
+        "accuracy" : 107,
+        "longitude" : -3.5784495999999999,
+        "datePublished" : 698910005.76600003
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 698895694,
         "latitude" : 40.455564799999998,
         "accuracy" : 99,
