@@ -4,6 +4,22 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 699113087,
+        "latitude" : 55.628236299999998,
+        "accuracy" : 107,
+        "longitude" : 12.6370956,
+        "datePublished" : 699114277.81800008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699113078,
+        "latitude" : 55.628332,
+        "accuracy" : 113,
+        "longitude" : 12.6374406,
+        "datePublished" : 699114557.38400006
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 699112471,
         "latitude" : 55.628187400000002,
         "accuracy" : 102,
@@ -7288,6 +7304,254 @@
     "name" : "M2 5976 (shipped)",
     "data" : [
       {
+        "confidence" : 2,
+        "timestamp" : 699117910,
+        "latitude" : 55.628525600000003,
+        "accuracy" : 141,
+        "longitude" : 12.640871199999999,
+        "datePublished" : 699117911.204
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699117904,
+        "latitude" : 55.628149000000001,
+        "accuracy" : 111,
+        "longitude" : 12.6370875,
+        "datePublished" : 699117911.204
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699117366,
+        "latitude" : 55.628130800000001,
+        "accuracy" : 98,
+        "longitude" : 12.637025299999999,
+        "datePublished" : 699117536.19300008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699117357,
+        "latitude" : 55.628239899999997,
+        "accuracy" : 83,
+        "longitude" : 12.6366961,
+        "datePublished" : 699117794.19400001
+      },
+      {
+        "confidence" : 2,
+        "timestamp" : 699117354,
+        "latitude" : 55.6283928,
+        "accuracy" : 142,
+        "longitude" : 12.630686799999999,
+        "datePublished" : 699117794.19400001
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699117300,
+        "latitude" : 55.628279399999997,
+        "accuracy" : 85,
+        "longitude" : 12.6371556,
+        "datePublished" : 699117794.19400001
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699117297,
+        "latitude" : 55.628279399999997,
+        "accuracy" : 84,
+        "longitude" : 12.6371556,
+        "datePublished" : 699117794.19400001
+      },
+      {
+        "confidence" : 1,
+        "timestamp" : 699116816,
+        "latitude" : 55.628781699999998,
+        "accuracy" : 172,
+        "longitude" : 12.6375571,
+        "datePublished" : 699117297.97000003
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699116765,
+        "latitude" : 55.6281307,
+        "accuracy" : 98,
+        "longitude" : 12.637025100000001,
+        "datePublished" : 699117536.19300008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699116699,
+        "latitude" : 55.6281307,
+        "accuracy" : 98,
+        "longitude" : 12.637025100000001,
+        "datePublished" : 699116737.15799999
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699116609,
+        "latitude" : 55.628273200000002,
+        "accuracy" : 100,
+        "longitude" : 12.6364187,
+        "datePublished" : 699116669.34500003
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699116576,
+        "latitude" : 55.628263799999999,
+        "accuracy" : 103,
+        "longitude" : 12.636369699999999,
+        "datePublished" : 699116669.34500003
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699116525,
+        "latitude" : 55.628266799999999,
+        "accuracy" : 98,
+        "longitude" : 12.6364868,
+        "datePublished" : 699116669.34500003
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699116428,
+        "latitude" : 55.628247600000002,
+        "accuracy" : 91,
+        "longitude" : 12.637177599999999,
+        "datePublished" : 699116669.34500003
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699116221,
+        "latitude" : 55.628162400000001,
+        "accuracy" : 76,
+        "longitude" : 12.637062,
+        "datePublished" : 699116737.15799999
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699115548,
+        "latitude" : 55.628196199999998,
+        "accuracy" : 109,
+        "longitude" : 12.6370305,
+        "datePublished" : 699115613.26699996
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699115307,
+        "latitude" : 55.628278799999997,
+        "accuracy" : 84,
+        "longitude" : 12.6372176,
+        "datePublished" : 699116020.96600008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699115208,
+        "latitude" : 55.628063900000001,
+        "accuracy" : 76,
+        "longitude" : 12.637040300000001,
+        "datePublished" : 699115890.91300011
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699115193,
+        "latitude" : 55.628159099999998,
+        "accuracy" : 100,
+        "longitude" : 12.6371366,
+        "datePublished" : 699115613.26699996
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699115052,
+        "latitude" : 55.628159099999998,
+        "accuracy" : 79,
+        "longitude" : 12.6371366,
+        "datePublished" : 699115613.26699996
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699115025,
+        "latitude" : 55.628130800000001,
+        "accuracy" : 98,
+        "longitude" : 12.637025299999999,
+        "datePublished" : 699115110.72300005
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699115022,
+        "latitude" : 55.628100500000002,
+        "accuracy" : 83,
+        "longitude" : 12.636862199999999,
+        "datePublished" : 699116020.96600008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699114884,
+        "latitude" : 55.628159099999998,
+        "accuracy" : 78,
+        "longitude" : 12.6371366,
+        "datePublished" : 699115613.26699996
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699114340,
+        "latitude" : 55.628159099999998,
+        "accuracy" : 100,
+        "longitude" : 12.6371366,
+        "datePublished" : 699114353.08100009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699114162,
+        "latitude" : 55.628159099999998,
+        "accuracy" : 74,
+        "longitude" : 12.6371366,
+        "datePublished" : 699114353.08100009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699114102,
+        "latitude" : 55.628239899999997,
+        "accuracy" : 82,
+        "longitude" : 12.637207500000001,
+        "datePublished" : 699114557.38400006
+      },
+      {
+        "confidence" : 1,
+        "timestamp" : 699114066,
+        "latitude" : 55.628822599999999,
+        "accuracy" : 172,
+        "longitude" : 12.637309800000001,
+        "datePublished" : 699115305.17400002
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699113991,
+        "latitude" : 55.628159099999998,
+        "accuracy" : 78,
+        "longitude" : 12.6371366,
+        "datePublished" : 699114353.08100009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699113937,
+        "latitude" : 55.628159099999998,
+        "accuracy" : 84,
+        "longitude" : 12.6371366,
+        "datePublished" : 699114353.08100009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699113874,
+        "latitude" : 55.628225,
+        "accuracy" : 98,
+        "longitude" : 12.637078199999999,
+        "datePublished" : 699114277.81800008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699113477,
+        "latitude" : 55.628232400000002,
+        "accuracy" : 98,
+        "longitude" : 12.6371743,
+        "datePublished" : 699114381.56200004
+      },
+      {
         "confidence" : 3,
         "timestamp" : 699113360,
         "latitude" : 55.628222800000003,
@@ -7313,11 +7577,35 @@
       },
       {
         "confidence" : 3,
+        "timestamp" : 699113240,
+        "latitude" : 55.628346100000002,
+        "accuracy" : 112,
+        "longitude" : 12.637611100000001,
+        "datePublished" : 699114557.38400006
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699113030,
+        "latitude" : 55.628233100000003,
+        "accuracy" : 108,
+        "longitude" : 12.6370583,
+        "datePublished" : 699114277.81800008
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 699113018,
         "latitude" : 55.628159099999998,
         "accuracy" : 74,
         "longitude" : 12.6371366,
         "datePublished" : 699113362.74399996
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699112642,
+        "latitude" : 55.628188999999999,
+        "accuracy" : 112,
+        "longitude" : 12.6369437,
+        "datePublished" : 699114557.38400006
       },
       {
         "confidence" : 3,
@@ -7342,6 +7630,22 @@
         "accuracy" : 119,
         "longitude" : 12.637813400000001,
         "datePublished" : 699112547.73900008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699112407,
+        "latitude" : 55.6282985,
+        "accuracy" : 81,
+        "longitude" : 12.6373093,
+        "datePublished" : 699114450.67000008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699112320,
+        "latitude" : 55.628126700000003,
+        "accuracy" : 82,
+        "longitude" : 12.6370731,
+        "datePublished" : 699114557.38400006
       },
       {
         "confidence" : 1,
@@ -7382,6 +7686,14 @@
         "accuracy" : 74,
         "longitude" : 12.6371366,
         "datePublished" : 699112330.17400002
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699112224,
+        "latitude" : 55.628205800000003,
+        "accuracy" : 62,
+        "longitude" : 12.636949700000001,
+        "datePublished" : 699114450.67000008
       },
       {
         "confidence" : 3,
@@ -7688,6 +8000,14 @@
         "datePublished" : 699107162.37599993
       },
       {
+        "confidence" : 1,
+        "timestamp" : 699105917,
+        "latitude" : 55.628226599999998,
+        "accuracy" : 174,
+        "longitude" : 12.636997900000001,
+        "datePublished" : 699115020.54999995
+      },
+      {
         "confidence" : 3,
         "timestamp" : 699105805,
         "latitude" : 55.628215500000003,
@@ -7830,6 +8150,14 @@
         "accuracy" : 82,
         "longitude" : 12.6371673,
         "datePublished" : 699104811.68499994
+      },
+      {
+        "confidence" : 2,
+        "timestamp" : 699103089,
+        "latitude" : 55.628466699999997,
+        "accuracy" : 124,
+        "longitude" : 12.641917400000001,
+        "datePublished" : 699115110.72300005
       },
       {
         "confidence" : 3,
@@ -22974,318 +23302,6 @@
         "accuracy" : 102,
         "longitude" : -3.4447415000000001,
         "datePublished" : 698605575.69000006
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 698605322,
-        "latitude" : 40.454634499999997,
-        "accuracy" : 234,
-        "longitude" : -3.4421526,
-        "datePublished" : 698605996.52900004
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698604910,
-        "latitude" : 40.458681599999998,
-        "accuracy" : 98,
-        "longitude" : -3.4365676999999999,
-        "datePublished" : 698604995.53900003
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 698604616,
-        "latitude" : 40.4572486,
-        "accuracy" : 173,
-        "longitude" : -3.4374570000000002,
-        "datePublished" : 698606862.55800009
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698604496,
-        "latitude" : 40.460135200000003,
-        "accuracy" : 119,
-        "longitude" : -3.4358418999999998,
-        "datePublished" : 698604535.6789999
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698604093,
-        "latitude" : 40.459675699999998,
-        "accuracy" : 36,
-        "longitude" : -3.4338047999999999,
-        "datePublished" : 698604096.61899996
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698604057,
-        "latitude" : 40.459658900000001,
-        "accuracy" : 35,
-        "longitude" : -3.4337684999999998,
-        "datePublished" : 698604096.61899996
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698603940,
-        "latitude" : 40.459687799999998,
-        "accuracy" : 46,
-        "longitude" : -3.433764,
-        "datePublished" : 698604096.61899996
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698603684,
-        "latitude" : 40.459676399999999,
-        "accuracy" : 34,
-        "longitude" : -3.4338304000000002,
-        "datePublished" : 698604096.61899996
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698602855,
-        "latitude" : 40.459116600000002,
-        "accuracy" : 114,
-        "longitude" : -3.4343469999999998,
-        "datePublished" : 698605761.41799998
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698602509,
-        "latitude" : 40.4597567,
-        "accuracy" : 117,
-        "longitude" : -3.4357179000000002,
-        "datePublished" : 698606756.32299995
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698601310,
-        "latitude" : 40.457125400000002,
-        "accuracy" : 43,
-        "longitude" : -3.4368875000000001,
-        "datePublished" : 698602900.13199997
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698601307,
-        "latitude" : 40.457143799999997,
-        "accuracy" : 43,
-        "longitude" : -3.4368422999999999,
-        "datePublished" : 698602900.13199997
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698601298,
-        "latitude" : 40.457221099999998,
-        "accuracy" : 43,
-        "longitude" : -3.4367030999999999,
-        "datePublished" : 698602900.13199997
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698601025,
-        "latitude" : 40.453912799999998,
-        "accuracy" : 99,
-        "longitude" : -3.4441961000000001,
-        "datePublished" : 698602235.12199998
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 698600992,
-        "latitude" : 40.453116399999999,
-        "accuracy" : 166,
-        "longitude" : -3.4442700999999998,
-        "datePublished" : 698602391.15199995
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600802,
-        "latitude" : 40.451642800000002,
-        "accuracy" : 102,
-        "longitude" : -3.4476575999999999,
-        "datePublished" : 698602376.83800006
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600790,
-        "latitude" : 40.4517509,
-        "accuracy" : 53,
-        "longitude" : -3.4480985999999998,
-        "datePublished" : 698600814.2349999
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698600787,
-        "latitude" : 40.452522199999997,
-        "accuracy" : 120,
-        "longitude" : -3.4480734000000002,
-        "datePublished" : 698601399.46700001
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600772,
-        "latitude" : 40.451855700000003,
-        "accuracy" : 87,
-        "longitude" : -3.4477465,
-        "datePublished" : 698600806.03800011
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600709,
-        "latitude" : 40.452355900000001,
-        "accuracy" : 75,
-        "longitude" : -3.4494262999999998,
-        "datePublished" : 698625156.69899988
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698600691,
-        "latitude" : 40.451841000000002,
-        "accuracy" : 115,
-        "longitude" : -3.4488394000000002,
-        "datePublished" : 698601399.46700001
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600601,
-        "latitude" : 40.451618400000001,
-        "accuracy" : 44,
-        "longitude" : -3.4487066999999998,
-        "datePublished" : 698600814.2349999
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600592,
-        "latitude" : 40.452396100000001,
-        "accuracy" : 114,
-        "longitude" : -3.4488268,
-        "datePublished" : 698601399.46700001
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600373,
-        "latitude" : 40.451498299999997,
-        "accuracy" : 34,
-        "longitude" : -3.4484775000000001,
-        "datePublished" : 698600814.2349999
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698600210,
-        "latitude" : 40.451771100000002,
-        "accuracy" : 117,
-        "longitude" : -3.4474751000000001,
-        "datePublished" : 698605662.15799999
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698600207,
-        "latitude" : 40.451771100000002,
-        "accuracy" : 117,
-        "longitude" : -3.4474751000000001,
-        "datePublished" : 698605662.15799999
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698600162,
-        "latitude" : 40.452350600000003,
-        "accuracy" : 116,
-        "longitude" : -3.4488903999999998,
-        "datePublished" : 698602776.296
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600138,
-        "latitude" : 40.451655799999997,
-        "accuracy" : 47,
-        "longitude" : -3.4490029999999998,
-        "datePublished" : 698602776.296
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600135,
-        "latitude" : 40.451652799999998,
-        "accuracy" : 55,
-        "longitude" : -3.4489630999999998,
-        "datePublished" : 698602776.296
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600087,
-        "latitude" : 40.452679600000003,
-        "accuracy" : 70,
-        "longitude" : -3.4477351999999999,
-        "datePublished" : 698605547.20099998
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698600063,
-        "latitude" : 40.452084200000002,
-        "accuracy" : 122,
-        "longitude" : -3.4485548000000001,
-        "datePublished" : 698601399.46700001
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600057,
-        "latitude" : 40.451611700000001,
-        "accuracy" : 44,
-        "longitude" : -3.4487421,
-        "datePublished" : 698600814.2349999
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600045,
-        "latitude" : 40.452679600000003,
-        "accuracy" : 70,
-        "longitude" : -3.4477351999999999,
-        "datePublished" : 698600045.69000006
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698600015,
-        "latitude" : 40.452334800000003,
-        "accuracy" : 114,
-        "longitude" : -3.4492169000000001,
-        "datePublished" : 698602776.296
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 698599958,
-        "latitude" : 40.451542600000003,
-        "accuracy" : 168,
-        "longitude" : -3.4476695999999998,
-        "datePublished" : 698600390.96399999
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698599783,
-        "latitude" : 40.452210100000002,
-        "accuracy" : 106,
-        "longitude" : -3.4507892,
-        "datePublished" : 698600759.19199991
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698599741,
-        "latitude" : 40.451593199999998,
-        "accuracy" : 98,
-        "longitude" : -3.4487426000000001,
-        "datePublished" : 698599744.76200008
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698598954,
-        "latitude" : 40.452368399999997,
-        "accuracy" : 98,
-        "longitude" : -3.4464986999999998,
-        "datePublished" : 698599003.95900011
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698598891,
-        "latitude" : 40.452322700000003,
-        "accuracy" : 55,
-        "longitude" : -3.4464600999999999,
-        "datePublished" : 698598930.33599997
       }
     ]
   }
