@@ -7316,14 +7316,6 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 698673985,
-        "latitude" : 40.452368399999997,
-        "accuracy" : 98,
-        "longitude" : -3.4464986999999998,
-        "datePublished" : 698674077.2809999
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 698673793,
         "latitude" : 40.452321099999999,
         "accuracy" : 87,
@@ -7340,59 +7332,11 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 698673663,
-        "latitude" : 40.452325299999998,
-        "accuracy" : 55,
-        "longitude" : -3.4464572000000002,
-        "datePublished" : 698673774.35100007
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698673579,
-        "latitude" : 40.452368399999997,
-        "accuracy" : 98,
-        "longitude" : -3.4464986999999998,
-        "datePublished" : 698674077.2809999
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698673231,
-        "latitude" : 40.452345800000003,
-        "accuracy" : 82,
-        "longitude" : -3.4464921999999998,
-        "datePublished" : 698673774.35100007
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698673225,
-        "latitude" : 40.452368399999997,
-        "accuracy" : 98,
-        "longitude" : -3.4464986999999998,
-        "datePublished" : 698674077.2809999
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 698673204,
         "latitude" : 40.452321099999999,
         "accuracy" : 87,
         "longitude" : -3.4463962000000001,
         "datePublished" : 698674435.03800011
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698672900,
-        "latitude" : 40.452325299999998,
-        "accuracy" : 55,
-        "longitude" : -3.4464572000000002,
-        "datePublished" : 698673774.35100007
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698672581,
-        "latitude" : 40.452325299999998,
-        "accuracy" : 103,
-        "longitude" : -3.4464572000000002,
-        "datePublished" : 698673774.35100007
       }
     ]
   },
