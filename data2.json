@@ -7008,6 +7008,22 @@
     "name" : "M2 5976 (shipped)",
     "data" : [
       {
+        "confidence" : 3,
+        "timestamp" : 699292877,
+        "latitude" : 55.642181399999998,
+        "accuracy" : 103,
+        "longitude" : 12.252894100000001,
+        "datePublished" : 699292982.79399991
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699290593,
+        "latitude" : 55.642006700000003,
+        "accuracy" : 111,
+        "longitude" : 12.2521989,
+        "datePublished" : 699292982.79399991
+      },
+      {
         "confidence" : 2,
         "timestamp" : 699289946,
         "latitude" : 55.642341299999998,
@@ -22990,22 +23006,6 @@
         "accuracy" : 102,
         "longitude" : -3.4560829000000002,
         "datePublished" : 698745469.58999991
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 698743220,
-        "latitude" : 40.457419100000003,
-        "accuracy" : 166,
-        "longitude" : -3.4559337000000001,
-        "datePublished" : 698743220.83800006
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698743196,
-        "latitude" : 40.458306800000003,
-        "accuracy" : 62,
-        "longitude" : -3.4563967999999998,
-        "datePublished" : 698743209.35899997
       }
     ]
   }
