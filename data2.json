@@ -6340,14 +6340,6 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 698756216,
-        "latitude" : 40.412219200000003,
-        "accuracy" : 49,
-        "longitude" : -3.5081378000000001,
-        "datePublished" : 698757079.07599998
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 698755744,
         "latitude" : 40.455542999999999,
         "accuracy" : 98,
@@ -6361,14 +6353,6 @@
         "accuracy" : 104,
         "longitude" : -3.4740828000000001,
         "datePublished" : 698760559.57599998
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698755308,
-        "latitude" : 40.462547200000003,
-        "accuracy" : 107,
-        "longitude" : -3.4756849999999999,
-        "datePublished" : 698757098.12199998
       },
       {
         "confidence" : 3,
@@ -6391,6 +6375,22 @@
   {
     "name" : "M2 5976 (shipped)",
     "data" : [
+      {
+        "confidence" : 1,
+        "timestamp" : 699362069,
+        "latitude" : 55.644012799999999,
+        "accuracy" : 200,
+        "longitude" : 12.2593008,
+        "datePublished" : 699362356.44000006
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699361994,
+        "latitude" : 55.6423615,
+        "accuracy" : 98,
+        "longitude" : 12.2531778,
+        "datePublished" : 699362631.45300007
+      },
       {
         "confidence" : 3,
         "timestamp" : 699360599,
@@ -22374,22 +22374,6 @@
         "accuracy" : 114,
         "longitude" : -3.5782767,
         "datePublished" : 698833178.19499993
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698832776,
-        "latitude" : 40.455137200000003,
-        "accuracy" : 98,
-        "longitude" : -3.5781819000000001,
-        "datePublished" : 698834281.00999999
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698832595,
-        "latitude" : 40.455131100000003,
-        "accuracy" : 98,
-        "longitude" : -3.5782468999999999,
-        "datePublished" : 698832762.95799994
       }
     ]
   }
