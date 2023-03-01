@@ -6235,28 +6235,12 @@
         "datePublished" : 698768041.47600007
       },
       {
-        "confidence" : 2,
-        "timestamp" : 698763425,
-        "latitude" : 40.454957499999999,
-        "accuracy" : 121,
-        "longitude" : -3.5838942999999999,
-        "datePublished" : 698763694.58299994
-      },
-      {
         "confidence" : 3,
         "timestamp" : 698762932,
         "latitude" : 40.384081000000002,
         "accuracy" : 43,
         "longitude" : -3.6322855000000001,
         "datePublished" : 698768666.86299992
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698762704,
-        "latitude" : 40.382013800000003,
-        "accuracy" : 59,
-        "longitude" : -3.6344756999999999,
-        "datePublished" : 698763790.17600012
       },
       {
         "confidence" : 1,
@@ -6279,6 +6263,22 @@
   {
     "name" : "M2 5976 (shipped)",
     "data" : [
+      {
+        "confidence" : 3,
+        "timestamp" : 699367848,
+        "latitude" : 55.642277700000001,
+        "accuracy" : 98,
+        "longitude" : 12.253208600000001,
+        "datePublished" : 699368626.5309999
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699367295,
+        "latitude" : 55.642265999999999,
+        "accuracy" : 98,
+        "longitude" : 12.253215600000001,
+        "datePublished" : 699368626.5309999
+      },
       {
         "confidence" : 3,
         "timestamp" : 699366102,
@@ -22262,22 +22262,6 @@
         "accuracy" : 183,
         "longitude" : -3.5785478999999998,
         "datePublished" : 698835959.1400001
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 698835474,
-        "latitude" : 40.457474400000002,
-        "accuracy" : 211,
-        "longitude" : -3.5795606000000002,
-        "datePublished" : 698836021.19499993
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 698835294,
-        "latitude" : 40.455635999999998,
-        "accuracy" : 119,
-        "longitude" : -3.5780924999999999,
-        "datePublished" : 698835414.49799991
       }
     ]
   }
