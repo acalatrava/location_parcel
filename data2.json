@@ -4,6 +4,22 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 699345818,
+        "latitude" : 55.642222599999997,
+        "accuracy" : 96,
+        "longitude" : 12.2523283,
+        "datePublished" : 699346468.32299995
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699345815,
+        "latitude" : 55.642222599999997,
+        "accuracy" : 95,
+        "longitude" : 12.2523283,
+        "datePublished" : 699346468.32299995
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 699344748,
         "latitude" : 55.6420849,
         "accuracy" : 102,
@@ -6505,60 +6521,28 @@
         "accuracy" : 76,
         "longitude" : -3.4572835999999998,
         "datePublished" : 698833816.06100011
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698741506,
-        "latitude" : 40.462928300000002,
-        "accuracy" : 76,
-        "longitude" : -3.4572835999999998,
-        "datePublished" : 698741641.32999992
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698741485,
-        "latitude" : 40.4628388,
-        "accuracy" : 99,
-        "longitude" : -3.4574248000000001,
-        "datePublished" : 698741924.81599998
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698741007,
-        "latitude" : 40.462928300000002,
-        "accuracy" : 76,
-        "longitude" : -3.4572835999999998,
-        "datePublished" : 698741641.32999992
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698740689,
-        "latitude" : 40.462928300000002,
-        "accuracy" : 108,
-        "longitude" : -3.4572835999999998,
-        "datePublished" : 698741641.32999992
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698740334,
-        "latitude" : 40.462928300000002,
-        "accuracy" : 76,
-        "longitude" : -3.4572835999999998,
-        "datePublished" : 698741641.32999992
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698740193,
-        "latitude" : 40.462972100000002,
-        "accuracy" : 109,
-        "longitude" : -3.4566506000000001,
-        "datePublished" : 698741897.77999997
       }
     ]
   },
   {
     "name" : "M2 5976 (shipped)",
     "data" : [
+      {
+        "confidence" : 3,
+        "timestamp" : 699345099,
+        "latitude" : 55.6417365,
+        "accuracy" : 103,
+        "longitude" : 12.2523035,
+        "datePublished" : 699346111.10400009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699345093,
+        "latitude" : 55.6417365,
+        "accuracy" : 102,
+        "longitude" : 12.2523035,
+        "datePublished" : 699346111.10400009
+      },
       {
         "confidence" : 3,
         "timestamp" : 699344525,
@@ -22542,22 +22526,6 @@
         "accuracy" : 90,
         "longitude" : -3.5784658999999999,
         "datePublished" : 698826945.67700005
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698823974,
-        "latitude" : 40.455563400000003,
-        "accuracy" : 90,
-        "longitude" : -3.5784658999999999,
-        "datePublished" : 698824170.08599997
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 698823559,
-        "latitude" : 40.455563400000003,
-        "accuracy" : 90,
-        "longitude" : -3.5784658999999999,
-        "datePublished" : 698824170.08599997
       }
     ]
   }
