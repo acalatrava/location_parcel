@@ -3,6 +3,46 @@
     "name" : "M1 F19E (shipped)",
     "data" : [
       {
+        "confidence" : 1,
+        "timestamp" : 699436513,
+        "latitude" : 55.647575500000002,
+        "accuracy" : 200,
+        "longitude" : 12.249667199999999,
+        "datePublished" : 699436520.82299995
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699435585,
+        "latitude" : 55.642166099999997,
+        "accuracy" : 112,
+        "longitude" : 12.252992799999999,
+        "datePublished" : 699435898.01099992
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699435146,
+        "latitude" : 55.642165499999997,
+        "accuracy" : 113,
+        "longitude" : 12.2529795,
+        "datePublished" : 699435898.01099992
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699434704,
+        "latitude" : 55.642165499999997,
+        "accuracy" : 105,
+        "longitude" : 12.252978000000001,
+        "datePublished" : 699435898.01099992
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699433917,
+        "latitude" : 55.6421639,
+        "accuracy" : 109,
+        "longitude" : 12.2528016,
+        "datePublished" : 699435898.01099992
+      },
+      {
         "confidence" : 3,
         "timestamp" : 699431826,
         "latitude" : 55.641970299999997,
@@ -6728,12 +6768,52 @@
     "name" : "M2 5976 (shipped)",
     "data" : [
       {
+        "confidence" : 3,
+        "timestamp" : 699436041,
+        "latitude" : 55.642222099999998,
+        "accuracy" : 98,
+        "longitude" : 12.253098100000001,
+        "datePublished" : 699436041.52800012
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699435686,
+        "latitude" : 55.6417219,
+        "accuracy" : 101,
+        "longitude" : 12.253083,
+        "datePublished" : 699435898.01099992
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699435220,
+        "latitude" : 55.6417225,
+        "accuracy" : 102,
+        "longitude" : 12.2531575,
+        "datePublished" : 699435898.01099992
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699434809,
+        "latitude" : 55.641843299999998,
+        "accuracy" : 99,
+        "longitude" : 12.2530938,
+        "datePublished" : 699435898.01099992
+      },
+      {
         "confidence" : 1,
         "timestamp" : 699434628,
         "latitude" : 55.644016200000003,
         "accuracy" : 200,
         "longitude" : 12.259313499999999,
         "datePublished" : 699435511.30299997
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699434178,
+        "latitude" : 55.642178700000002,
+        "accuracy" : 113,
+        "longitude" : 12.2530158,
+        "datePublished" : 699435898.01099992
       },
       {
         "confidence" : 1,
@@ -22686,46 +22766,6 @@
         "accuracy" : 224,
         "longitude" : 12.588740400000001,
         "datePublished" : 699271731.78699994
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699042994,
-        "latitude" : 55.627285299999997,
-        "accuracy" : 161,
-        "longitude" : 12.640352,
-        "datePublished" : 699066973.19099998
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699042994,
-        "latitude" : 55.627292599999997,
-        "accuracy" : 125,
-        "longitude" : 12.640485699999999,
-        "datePublished" : 699043916.28399992
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699042974,
-        "latitude" : 55.6272254,
-        "accuracy" : 145,
-        "longitude" : 12.6399998,
-        "datePublished" : 699048009.89199996
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699042967,
-        "latitude" : 55.627845600000001,
-        "accuracy" : 150,
-        "longitude" : 12.6394488,
-        "datePublished" : 699042972.94899988
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699042964,
-        "latitude" : 55.627845600000001,
-        "accuracy" : 150,
-        "longitude" : 12.6394488,
-        "datePublished" : 699042972.94899988
       }
     ]
   }
