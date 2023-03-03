@@ -4,6 +4,14 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 699564720,
+        "latitude" : 55.642171900000001,
+        "accuracy" : 98,
+        "longitude" : 12.252205399999999,
+        "datePublished" : 699565200.87299991
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 699563804,
         "latitude" : 55.642099299999998,
         "accuracy" : 98,
@@ -8607,6 +8615,30 @@
   {
     "name" : "M2 5976 (shipped)",
     "data" : [
+      {
+        "confidence" : 3,
+        "timestamp" : 699565155,
+        "latitude" : 55.642076500000002,
+        "accuracy" : 101,
+        "longitude" : 12.2521813,
+        "datePublished" : 699565200.87299991
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699564723,
+        "latitude" : 55.642171900000001,
+        "accuracy" : 98,
+        "longitude" : 12.252205399999999,
+        "datePublished" : 699565200.87299991
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 699564365,
+        "latitude" : 55.642088200000003,
+        "accuracy" : 95,
+        "longitude" : 12.252103,
+        "datePublished" : 699564736.17199993
+      },
       {
         "confidence" : 3,
         "timestamp" : 699564080,
@@ -24581,30 +24613,6 @@
         "latitude" : 55.620200699999998,
         "accuracy" : 100,
         "longitude" : 12.6741384,
-        "datePublished" : 699195670.17600012
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699195457,
-        "latitude" : 55.620200699999998,
-        "accuracy" : 98,
-        "longitude" : 12.6741384,
-        "datePublished" : 699195670.17600012
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699195445,
-        "latitude" : 55.620204999999999,
-        "accuracy" : 98,
-        "longitude" : 12.674152400000001,
-        "datePublished" : 699195670.17600012
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699195430,
-        "latitude" : 55.620260600000002,
-        "accuracy" : 98,
-        "longitude" : 12.6743165,
         "datePublished" : 699195670.17600012
       }
     ]
