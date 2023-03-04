@@ -7420,14 +7420,6 @@
       },
       {
         "confidence" : 2,
-        "timestamp" : 699043238,
-        "latitude" : 55.627401300000002,
-        "accuracy" : 118,
-        "longitude" : 12.6404333,
-        "datePublished" : 699048009.89199996
-      },
-      {
-        "confidence" : 2,
         "timestamp" : 699043226,
         "latitude" : 55.627438499999997,
         "accuracy" : 118,
@@ -7451,14 +7443,6 @@
         "datePublished" : 699066541.91599989
       },
       {
-        "confidence" : 3,
-        "timestamp" : 699043199,
-        "latitude" : 55.627381,
-        "accuracy" : 103,
-        "longitude" : 12.640442999999999,
-        "datePublished" : 699048009.89199996
-      },
-      {
         "confidence" : 1,
         "timestamp" : 699043124,
         "latitude" : 55.627294800000001,
@@ -7476,14 +7460,6 @@
       },
       {
         "confidence" : 1,
-        "timestamp" : 699042970,
-        "latitude" : 55.627083200000001,
-        "accuracy" : 210,
-        "longitude" : 12.644568,
-        "datePublished" : 699049989.82200003
-      },
-      {
-        "confidence" : 1,
         "timestamp" : 699042964,
         "latitude" : 55.618425100000003,
         "accuracy" : 204,
@@ -7497,14 +7473,6 @@
         "accuracy" : 210,
         "longitude" : 12.6367671,
         "datePublished" : 699059052.00900006
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 699042940,
-        "latitude" : 55.6251125,
-        "accuracy" : 210,
-        "longitude" : 12.641572999999999,
-        "datePublished" : 699049883.87700009
       },
       {
         "confidence" : 1,
@@ -7553,14 +7521,6 @@
         "accuracy" : 205,
         "longitude" : 12.355260700000001,
         "datePublished" : 699077735.28999996
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 699042691,
-        "latitude" : 55.633392299999997,
-        "accuracy" : 255,
-        "longitude" : 12.598571700000001,
-        "datePublished" : 699049535.39199996
       },
       {
         "confidence" : 1,
