@@ -11681,22 +11681,6 @@
         "accuracy" : 249,
         "longitude" : -1.8146659000000001,
         "datePublished" : 699326769.94499993
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699029429,
-        "latitude" : 40.493443900000003,
-        "accuracy" : 145,
-        "longitude" : -3.5933383000000001,
-        "datePublished" : 699319748.50399995
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 699028317,
-        "latitude" : 40.494589699999999,
-        "accuracy" : 179,
-        "longitude" : -3.5931546999999999,
-        "datePublished" : 699319748.50399995
       }
     ]
   },
