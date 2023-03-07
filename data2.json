@@ -8332,14 +8332,6 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 699244391,
-        "latitude" : 55.6418824,
-        "accuracy" : 84,
-        "longitude" : 12.2526531,
-        "datePublished" : 699244490.3269999
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 699244388,
         "latitude" : 55.642185300000001,
         "accuracy" : 100,
@@ -8348,35 +8340,11 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 699244388,
-        "latitude" : 55.6418824,
-        "accuracy" : 82,
-        "longitude" : 12.2526531,
-        "datePublished" : 699244490.3269999
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 699244385,
         "latitude" : 55.642185300000001,
         "accuracy" : 99,
         "longitude" : 12.2530126,
         "datePublished" : 699246083.58299994
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699244355,
-        "latitude" : 55.642068299999998,
-        "accuracy" : 90,
-        "longitude" : 12.253046299999999,
-        "datePublished" : 699244490.3269999
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699244045,
-        "latitude" : 55.642018200000003,
-        "accuracy" : 98,
-        "longitude" : 12.2529036,
-        "datePublished" : 699244490.3269999
       },
       {
         "confidence" : 3,
@@ -8412,14 +8380,6 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 699234348,
-        "latitude" : 55.641721699999998,
-        "accuracy" : 99,
-        "longitude" : 12.2531646,
-        "datePublished" : 699244251.67600012
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 699234249,
         "latitude" : 55.641753000000001,
         "accuracy" : 98,
@@ -8433,30 +8393,6 @@
         "accuracy" : 110,
         "longitude" : 12.253035799999999,
         "datePublished" : 699260719.71000004
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699233714,
-        "latitude" : 55.641717800000002,
-        "accuracy" : 98,
-        "longitude" : 12.2531643,
-        "datePublished" : 699244251.67600012
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699233083,
-        "latitude" : 55.641682699999997,
-        "accuracy" : 98,
-        "longitude" : 12.2531078,
-        "datePublished" : 699244251.67600012
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699232581,
-        "latitude" : 55.641717200000002,
-        "accuracy" : 97,
-        "longitude" : 12.2531649,
-        "datePublished" : 699244251.67600012
       },
       {
         "confidence" : 3,
