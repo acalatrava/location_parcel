@@ -11588,22 +11588,6 @@
       },
       {
         "confidence" : 1,
-        "timestamp" : 699331475,
-        "latitude" : 55.641190899999998,
-        "accuracy" : 180,
-        "longitude" : 12.252141399999999,
-        "datePublished" : 699333002.71099997
-      },
-      {
-        "confidence" : 1,
-        "timestamp" : 699331463,
-        "latitude" : 55.641190899999998,
-        "accuracy" : 176,
-        "longitude" : 12.252141399999999,
-        "datePublished" : 699333002.71099997
-      },
-      {
-        "confidence" : 1,
         "timestamp" : 699322707,
         "latitude" : 55.646259899999997,
         "accuracy" : 200,
