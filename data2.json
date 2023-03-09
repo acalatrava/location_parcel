@@ -16313,6 +16313,14 @@
       },
       {
         "confidence" : 3,
+        "timestamp" : 700074451,
+        "latitude" : 55.689611499999998,
+        "accuracy" : 98,
+        "longitude" : 12.6117674,
+        "datePublished" : 700092198.80999994
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700074061,
         "latitude" : 55.689417400000004,
         "accuracy" : 98,
@@ -31998,14 +32006,6 @@
         "accuracy" : 67,
         "longitude" : 12.6111916,
         "datePublished" : 699900011.67499995
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699898218,
-        "latitude" : 55.689390799999998,
-        "accuracy" : 82,
-        "longitude" : 12.611211300000001,
-        "datePublished" : 699900200.41799998
       }
     ]
   }
