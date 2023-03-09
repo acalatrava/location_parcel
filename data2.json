@@ -14260,14 +14260,6 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 699427087,
-        "latitude" : 55.642141799999997,
-        "accuracy" : 107,
-        "longitude" : 12.252651200000001,
-        "datePublished" : 699427158.19099998
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 699427039,
         "latitude" : 55.642229499999999,
         "accuracy" : 109,
@@ -14292,43 +14284,11 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 699425981,
-        "latitude" : 55.642128300000003,
-        "accuracy" : 98,
-        "longitude" : 12.2521992,
-        "datePublished" : 699427170.03500009
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699425879,
-        "latitude" : 55.642164899999997,
-        "accuracy" : 98,
-        "longitude" : 12.252265,
-        "datePublished" : 699427170.03500009
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699425788,
-        "latitude" : 55.6421688,
-        "accuracy" : 99,
-        "longitude" : 12.2523383,
-        "datePublished" : 699427170.03500009
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 699425747,
         "latitude" : 55.641734499999998,
         "accuracy" : 114,
         "longitude" : 12.253099600000001,
         "datePublished" : 699433989.85899997
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699425647,
-        "latitude" : 55.642143599999997,
-        "accuracy" : 99,
-        "longitude" : 12.252238200000001,
-        "datePublished" : 699427170.03500009
       },
       {
         "confidence" : 3,
@@ -14345,14 +14305,6 @@
         "accuracy" : 98,
         "longitude" : 12.253027299999999,
         "datePublished" : 699430953.56500006
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699424737,
-        "latitude" : 55.641350500000001,
-        "accuracy" : 136,
-        "longitude" : 12.252358600000001,
-        "datePublished" : 699427133.89199996
       },
       {
         "confidence" : 3,
