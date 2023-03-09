@@ -14347,14 +14347,6 @@
         "datePublished" : 699430953.56500006
       },
       {
-        "confidence" : 3,
-        "timestamp" : 699424863,
-        "latitude" : 55.6422411,
-        "accuracy" : 90,
-        "longitude" : 12.253099600000001,
-        "datePublished" : 699425031.70799994
-      },
-      {
         "confidence" : 2,
         "timestamp" : 699424737,
         "latitude" : 55.641350500000001,
@@ -14364,27 +14356,11 @@
       },
       {
         "confidence" : 3,
-        "timestamp" : 699424592,
-        "latitude" : 55.641805499999997,
-        "accuracy" : 114,
-        "longitude" : 12.253098400000001,
-        "datePublished" : 699424599.29900002
-      },
-      {
-        "confidence" : 3,
         "timestamp" : 699424358,
         "latitude" : 55.641670900000001,
         "accuracy" : 109,
         "longitude" : 12.2531891,
         "datePublished" : 699426818.83599997
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699424298,
-        "latitude" : 55.642169899999999,
-        "accuracy" : 104,
-        "longitude" : 12.252928000000001,
-        "datePublished" : 699424599.29900002
       },
       {
         "confidence" : 3,
@@ -14409,30 +14385,6 @@
         "accuracy" : 105,
         "longitude" : 12.2531184,
         "datePublished" : 699430953.56500006
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699421792,
-        "latitude" : 55.642080900000003,
-        "accuracy" : 115,
-        "longitude" : 12.2529962,
-        "datePublished" : 699425031.70799994
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699421579,
-        "latitude" : 55.641998399999999,
-        "accuracy" : 99,
-        "longitude" : 12.2530447,
-        "datePublished" : 699425031.70799994
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699421573,
-        "latitude" : 55.641998399999999,
-        "accuracy" : 98,
-        "longitude" : 12.2530447,
-        "datePublished" : 699425031.70799994
       },
       {
         "confidence" : 3,
