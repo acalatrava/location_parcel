@@ -1420,6 +1420,14 @@
       },
       {
         "confidence" : 3,
+        "timestamp" : 700062793,
+        "latitude" : 55.689454099999999,
+        "accuracy" : 106,
+        "longitude" : 12.611247000000001,
+        "datePublished" : 700102866.3499999
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700062781,
         "latitude" : 55.689427899999998,
         "accuracy" : 98,
@@ -1569,6 +1577,14 @@
         "accuracy" : 98,
         "longitude" : 12.6112494,
         "datePublished" : 700062293.97099996
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 700062141,
+        "latitude" : 55.689461199999997,
+        "accuracy" : 82,
+        "longitude" : 12.6112255,
+        "datePublished" : 700102866.3499999
       },
       {
         "confidence" : 2,
@@ -2321,6 +2337,14 @@
         "accuracy" : 56,
         "longitude" : 12.6112526,
         "datePublished" : 700058595.00699997
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 700057886,
+        "latitude" : 55.689454099999999,
+        "accuracy" : 84,
+        "longitude" : 12.611247000000001,
+        "datePublished" : 700102866.3499999
       },
       {
         "confidence" : 3,
@@ -4417,6 +4441,14 @@
         "accuracy" : 71,
         "longitude" : 12.611337600000001,
         "datePublished" : 700046712.98900008
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 700046184,
+        "latitude" : 55.689454099999999,
+        "accuracy" : 112,
+        "longitude" : 12.611247000000001,
+        "datePublished" : 700102866.3499999
       },
       {
         "confidence" : 3,
@@ -15969,38 +16001,6 @@
         "accuracy" : 101,
         "longitude" : 12.5965805,
         "datePublished" : 699789955.68000007
-      },
-      {
-        "confidence" : 2,
-        "timestamp" : 699789223,
-        "latitude" : 55.6756764,
-        "accuracy" : 132,
-        "longitude" : 12.5961114,
-        "datePublished" : 699789341.47399998
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699788901,
-        "latitude" : 55.675537800000001,
-        "accuracy" : 98,
-        "longitude" : 12.5975603,
-        "datePublished" : 699789437.704
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699788814,
-        "latitude" : 55.675619400000002,
-        "accuracy" : 104,
-        "longitude" : 12.5974267,
-        "datePublished" : 699791757.06100011
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699788805,
-        "latitude" : 55.675574599999997,
-        "accuracy" : 98,
-        "longitude" : 12.5974418,
-        "datePublished" : 699788828.43700004
       }
     ]
   },
@@ -17769,6 +17769,14 @@
       },
       {
         "confidence" : 3,
+        "timestamp" : 700065406,
+        "latitude" : 55.689454099999999,
+        "accuracy" : 82,
+        "longitude" : 12.611247000000001,
+        "datePublished" : 700102866.3499999
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700065367,
         "latitude" : 55.689436800000003,
         "accuracy" : 57,
@@ -17822,6 +17830,14 @@
         "accuracy" : 82,
         "longitude" : 12.611215100000001,
         "datePublished" : 700065103.84800005
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 700065003,
+        "latitude" : 55.689454099999999,
+        "accuracy" : 98,
+        "longitude" : 12.611247000000001,
+        "datePublished" : 700102866.3499999
       },
       {
         "confidence" : 3,
@@ -31990,22 +32006,6 @@
         "accuracy" : 98,
         "longitude" : 12.6113181,
         "datePublished" : 699898573.0769999
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699898452,
-        "latitude" : 55.6894153,
-        "accuracy" : 102,
-        "longitude" : 12.611404200000001,
-        "datePublished" : 699898484.56599998
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699898287,
-        "latitude" : 55.689439399999998,
-        "accuracy" : 89,
-        "longitude" : 12.6111916,
-        "datePublished" : 699900011.67499995
       }
     ]
   }
