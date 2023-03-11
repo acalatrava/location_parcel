@@ -4,6 +4,14 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 700263742,
+        "latitude" : 55.6893855,
+        "accuracy" : 70,
+        "longitude" : 12.6113508,
+        "datePublished" : 700263742.65100002
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700260235,
         "latitude" : 55.6893855,
         "accuracy" : 70,
@@ -15993,14 +16001,6 @@
         "accuracy" : 115,
         "longitude" : 12.6113786,
         "datePublished" : 699886892.75900006
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699876358,
-        "latitude" : 55.689413000000002,
-        "accuracy" : 109,
-        "longitude" : 12.6113646,
-        "datePublished" : 699876541.83200002
       }
     ]
   },
@@ -16009,11 +16009,27 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 700263742,
+        "latitude" : 55.6893855,
+        "accuracy" : 70,
+        "longitude" : 12.6113508,
+        "datePublished" : 700263742.65100002
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700260235,
         "latitude" : 55.6893855,
         "accuracy" : 70,
         "longitude" : 12.6113508,
         "datePublished" : 700260235.75399995
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 700259198,
+        "latitude" : 55.689281700000002,
+        "accuracy" : 61,
+        "longitude" : 12.611591799999999,
+        "datePublished" : 700263569.2750001
       },
       {
         "confidence" : 3,
@@ -31990,22 +32006,6 @@
         "accuracy" : 73,
         "longitude" : 12.6113371,
         "datePublished" : 700040717.41700006
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 700040710,
-        "latitude" : 55.689391399999998,
-        "accuracy" : 69,
-        "longitude" : 12.6113371,
-        "datePublished" : 700040717.41700006
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 700040683,
-        "latitude" : 55.6894791,
-        "accuracy" : 74,
-        "longitude" : 12.611352500000001,
-        "datePublished" : 700041491.07299995
       }
     ]
   }
