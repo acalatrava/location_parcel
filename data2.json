@@ -4,6 +4,14 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 700183455,
+        "latitude" : 55.6893855,
+        "accuracy" : 70,
+        "longitude" : 12.6113508,
+        "datePublished" : 700183456.43700004
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700180078,
         "latitude" : 55.689413700000003,
         "accuracy" : 82,
@@ -15993,20 +16001,28 @@
         "accuracy" : 60,
         "longitude" : 12.611340200000001,
         "datePublished" : 699875545.21600008
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699875261,
-        "latitude" : 55.689439399999998,
-        "accuracy" : 67,
-        "longitude" : 12.6111916,
-        "datePublished" : 699875464.24799991
       }
     ]
   },
   {
     "name" : "M2 5976 (shipped)",
     "data" : [
+      {
+        "confidence" : 3,
+        "timestamp" : 700183453,
+        "latitude" : 55.689418699999997,
+        "accuracy" : 82,
+        "longitude" : 12.6113766,
+        "datePublished" : 700183454.0309999
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 700181449,
+        "latitude" : 55.689346700000002,
+        "accuracy" : 68,
+        "longitude" : 12.611495400000001,
+        "datePublished" : 700183244.36500001
+      },
       {
         "confidence" : 1,
         "timestamp" : 700180289,
@@ -31990,22 +32006,6 @@
         "accuracy" : 102,
         "longitude" : 12.6117367,
         "datePublished" : 700003844.93799996
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699998016,
-        "latitude" : 55.689608399999997,
-        "accuracy" : 98,
-        "longitude" : 12.6113389,
-        "datePublished" : 700000341.64499998
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699998004,
-        "latitude" : 55.6896062,
-        "accuracy" : 76,
-        "longitude" : 12.611219999999999,
-        "datePublished" : 700000341.64499998
       }
     ]
   }
