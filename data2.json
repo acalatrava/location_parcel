@@ -4,6 +4,14 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 700243836,
+        "latitude" : 55.6893855,
+        "accuracy" : 70,
+        "longitude" : 12.6113508,
+        "datePublished" : 700243836.71499991
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700240515,
         "latitude" : 55.6893855,
         "accuracy" : 70,
@@ -15993,20 +16001,28 @@
         "accuracy" : 60,
         "longitude" : 12.611340200000001,
         "datePublished" : 699876629.41400003
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699876147,
-        "latitude" : 55.689454900000001,
-        "accuracy" : 82,
-        "longitude" : 12.6113914,
-        "datePublished" : 699876488.28699994
       }
     ]
   },
   {
     "name" : "M2 5976 (shipped)",
     "data" : [
+      {
+        "confidence" : 3,
+        "timestamp" : 700243836,
+        "latitude" : 55.6893855,
+        "accuracy" : 70,
+        "longitude" : 12.6113508,
+        "datePublished" : 700243836.71499991
+      },
+      {
+        "confidence" : 2,
+        "timestamp" : 700243679,
+        "latitude" : 55.689616200000003,
+        "accuracy" : 115,
+        "longitude" : 12.6113927,
+        "datePublished" : 700243831.65799999
+      },
       {
         "confidence" : 3,
         "timestamp" : 700240515,
@@ -16126,6 +16142,14 @@
         "accuracy" : 82,
         "longitude" : 12.611415600000001,
         "datePublished" : 700230457.70600009
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 700230138,
+        "latitude" : 55.6894341,
+        "accuracy" : 57,
+        "longitude" : 12.6116075,
+        "datePublished" : 700243632.28900003
       },
       {
         "confidence" : 3,
@@ -31980,30 +32004,6 @@
         "timestamp" : 700040235,
         "latitude" : 55.689391399999998,
         "accuracy" : 108,
-        "longitude" : 12.6113371,
-        "datePublished" : 700040235.97799993
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 700040211,
-        "latitude" : 55.689391399999998,
-        "accuracy" : 85,
-        "longitude" : 12.6113371,
-        "datePublished" : 700040235.97799993
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 700040208,
-        "latitude" : 55.689391399999998,
-        "accuracy" : 81,
-        "longitude" : 12.6113371,
-        "datePublished" : 700040235.97799993
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 700040196,
-        "latitude" : 55.689391399999998,
-        "accuracy" : 68,
         "longitude" : 12.6113371,
         "datePublished" : 700040235.97799993
       }
