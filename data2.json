@@ -16009,6 +16009,14 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 700226992,
+        "latitude" : 55.689407199999998,
+        "accuracy" : 87,
+        "longitude" : 12.611442200000001,
+        "datePublished" : 700226992.85899997
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700224771,
         "latitude" : 55.689900199999997,
         "accuracy" : 111,
@@ -31994,14 +32002,6 @@
       {
         "confidence" : 3,
         "timestamp" : 700038522,
-        "latitude" : 55.689532100000001,
-        "accuracy" : 44,
-        "longitude" : 12.6113035,
-        "datePublished" : 700038615.35500002
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 700038519,
         "latitude" : 55.689532100000001,
         "accuracy" : 44,
         "longitude" : 12.6113035,
