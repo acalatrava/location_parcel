@@ -4,6 +4,14 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 700324090,
+        "latitude" : 55.689416600000001,
+        "accuracy" : 82,
+        "longitude" : 12.6113848,
+        "datePublished" : 700324090.64899993
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700320806,
         "latitude" : 55.6893855,
         "accuracy" : 70,
@@ -15993,14 +16001,6 @@
         "accuracy" : 102,
         "longitude" : 12.6113199,
         "datePublished" : 699877940.12299991
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 699877238,
-        "latitude" : 55.689529299999997,
-        "accuracy" : 98,
-        "longitude" : 12.6112933,
-        "datePublished" : 699877784.89100003
       }
     ]
   },
@@ -16009,11 +16009,27 @@
     "data" : [
       {
         "confidence" : 3,
+        "timestamp" : 700322212,
+        "latitude" : 55.6894323,
+        "accuracy" : 102,
+        "longitude" : 12.611559400000001,
+        "datePublished" : 700323905.49799991
+      },
+      {
+        "confidence" : 3,
         "timestamp" : 700321467,
         "latitude" : 55.689131600000003,
         "accuracy" : 98,
         "longitude" : 12.6115943,
         "datePublished" : 700321479.41300011
+      },
+      {
+        "confidence" : 3,
+        "timestamp" : 700321302,
+        "latitude" : 55.689541699999999,
+        "accuracy" : 102,
+        "longitude" : 12.611860999999999,
+        "datePublished" : 700323997.07800007
       },
       {
         "confidence" : 3,
@@ -31990,22 +32006,6 @@
         "accuracy" : 55,
         "longitude" : 12.6114009,
         "datePublished" : 700044061.05999994
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 700043147,
-        "latitude" : 55.689473,
-        "accuracy" : 112,
-        "longitude" : 12.611193500000001,
-        "datePublished" : 700043806.75200009
-      },
-      {
-        "confidence" : 3,
-        "timestamp" : 700043141,
-        "latitude" : 55.6895296,
-        "accuracy" : 104,
-        "longitude" : 12.611189100000001,
-        "datePublished" : 700043900.15499997
       }
     ]
   }
